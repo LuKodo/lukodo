@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Pharmaser<br>🌱 I’m currently learning Python
+🔭 I’m currently working on Distribuciones Pharmaser<br>🌱 I’m currently learning Python
 
 
 # 💻 Tech Stack:
